@@ -1,0 +1,23 @@
+Q1- What is the definition of a server port?
+A1- A port number is a way to identify a specific process to which an internet or other network message
+	is to be forwarded when it arrives at a server.
+
+Q2- What is the server port range?
+A2- Port numbers range from 0 to 65535, but only port numbers 0 to 1023 are
+	reserved for privileged services and designated as well-known ports.
+
+Q3- How many bits does the number represent?
+A3- 0000 0000 0000 0000 - 1111 1111 1111 1111
+
+Q4- State 10 common server ports.
+A4- 20 & 21 File Transfer Protocol
+	22 Secure Shell
+	25 Simple Mail Transfer Protocol
+	53 Domain Name System
+	80 Hypertext Transfer Protocol
+	123 Network Time Protocol
+	179 Border Gateway Protocol
+	443 HTTP Secure
+	500 Internet Security Association and Ket Management Protocol
+	3389 Remote Desktop Protocol
+
