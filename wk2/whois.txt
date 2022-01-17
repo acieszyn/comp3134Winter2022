@@ -1,0 +1,377 @@
+Domain Name: newegg.ca
+Registry Domain ID: D714210-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.cscglobal.com
+Updated Date: 2021-08-28T03:35:42Z
+Creation Date: 2001-08-29T23:20:41Z
+Registry Expiry Date: 2022-08-29T04:00:00Z
+Registrar: CSC Corporate Domains (Canada) Company
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 79975303-CIRA
+Registrant Name: scott padgett
+Registrant Organization:
+Registrant Street: 16839 Gale Ave.
+Registrant City: City of Industry
+Registrant State/Province: CA
+Registrant Postal Code: 91745
+Registrant Country: US
+Registrant Phone: +1.8003901119
+Registrant Phone Ext:
+Registrant Fax: +1.6262719403
+Registrant Fax Ext:
+Registrant Email: email@newegg.com
+Registry Admin ID: 79975300-CIRA
+Admin Name: scott padgett
+Admin Organization: Newegg Inc.
+Admin Street: 16839 Gale Ave.
+Admin City: City of Industry
+Admin State/Province: CA
+Admin Postal Code: 91745
+Admin Country: US
+Admin Phone: +1.8003901119
+Admin Phone Ext:
+Admin Fax: +1.6262719403
+Admin Fax Ext:
+Admin Email: email@newegg.com
+Registry Tech ID: 79975301-CIRA
+Tech Name: Stephen AdminFacciolo
+Tech Organization: CSC Corporate Domains, Inc.
+Tech Street: 251 Little Falls Drive
+Tech City: Wilmington
+Tech State/Province: DE
+Tech Postal Code: 19808
+Tech Country: US
+Tech Phone: +1.3026365400
+Tech Phone Ext:
+Tech Fax: +1.3026365454
+Tech Fax Ext:
+Tech Email: email@cscglobal.com
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: a1-21.akam.net
+Name Server: a16-66.akam.net
+Name Server: a24-67.akam.net
+Name Server: a28-64.akam.net
+Name Server: a7-65.akam.net
+Name Server: a9-66.akam.net
+Name Server: ns-1337.awsdns-39.org
+Name Server: ns-799.awsdns-35.net
+DNSSEC: unsigned
+
+###########################################################################
+
+Domain Name: cbc.ca
+Registry Domain ID: D345334-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: authenticweb.com
+Updated Date: 2021-11-24T05:00:04Z
+Creation Date: 2000-10-16T13:56:05Z
+Registry Expiry Date: 2022-11-24T05:00:00Z
+Registrar: Authentic Web Inc.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: 24345497-CIRA
+Registrant Name: Canadian Broadcasting Corporation
+Registrant Organization:
+Registrant Street: 250 Front St W
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M5V3G5
+Registrant Country: CA
+Registrant Phone: +1.4162053482
+Registrant Phone Ext:
+Registrant Fax: +1.4162057750
+Registrant Fax Ext:
+Registrant Email: email@cbc.ca
+Registry Admin ID: 24345372-CIRA
+Admin Name: Karen Stephen
+Admin Organization: Canadian Broadcasting Corporation
+Admin Street: 250 Front St W
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M5V3G5
+Admin Country: CA
+Admin Phone: +1.4162053482
+Admin Phone Ext:
+Admin Fax: +1.4162057750
+Admin Fax Ext:
+Admin Email: email@cbc.ca
+Registry Tech ID: 24345501-CIRA
+Tech Name: Karen Stephen
+Tech Organization: Canadian Broadcasting Corporation
+Tech Street: 250 Front St W
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M5V3G5
+Tech Country: CA
+Tech Phone: +1.4162053482
+Tech Phone Ext:
+Tech Fax: +1.4162057750
+Tech Fax Ext:
+Tech Email: email@cbc.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: a1-29.akam.net
+Name Server: a14-66.akam.net
+Name Server: a26-67.akam.net
+Name Server: a4-64.akam.net
+Name Server: a5-65.akam.net
+Name Server: a9-66.akam.net
+DNSSEC: unsigned
+
+###########################################################################
+
+Domain Name: ebay.ca
+Registry Domain ID: D724002-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: Markmonitor.com
+Updated Date: 2021-09-14T02:24:08Z
+Creation Date: 2000-10-28T01:05:40Z
+Registry Expiry Date: 2022-10-15T04:00:00Z
+Registrar: MarkMonitor International Canada Ltd.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 16324145-CIRA
+Registrant Name: eBay Canada Ltd.
+Registrant Organization:
+Registrant Street: 2 St. Clair Avenue East Suite 701
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M4T2T5
+Registrant Country: CA
+Registrant Phone: +1.4169611970
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: email@ebay.com
+Registry Admin ID: 16324146-CIRA
+Admin Name: Olga Yaguez
+Admin Organization:
+Admin Street: 2 St. Clair Avenue East Suite 701
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M4T2T5
+Admin Country: CA
+Admin Phone: +1.4169611970
+Admin Phone Ext:
+Admin Fax: +1.4169470866
+Admin Fax Ext:
+Admin Email: email@ebay.com
+Registry Tech ID: 16324147-CIRA
+Tech Name: Matt Serlin
+Tech Organization: MarkMonitor, Inc.
+Tech Street: Domain Provisioning, 10400 Overland Rd. PMB 155
+Tech City: Boise
+Tech State/Province: ID
+Tech Postal Code: 83709
+Tech Country: US
+Tech Phone: +1.2083895740
+Tech Phone Ext:
+Tech Fax: +1.2083895771
+Tech Fax Ext:
+Tech Email: email@markmonitor.com
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: dns1.p06.nsone.net
+Name Server: dns2.p06.nsone.net
+Name Server: dns3.p06.nsone.net
+Name Server: dns4.p06.nsone.net
+Name Server: ns01.ebaydns.com
+Name Server: ns02.ebaydns.com
+Name Server: ns03.ebaydns.com
+DNSSEC: unsigned
+
+###########################################################################
+
+Domain Name: youtube.ca
+Registry Domain ID: D336361-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: Markmonitor.com
+Updated Date: 2021-12-22T05:02:11Z
+Creation Date: 2005-12-22T11:55:51Z
+Registry Expiry Date: 2022-12-22T05:00:00Z
+Registrar: MarkMonitor International Canada Ltd.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: 59972060-CIRA
+Registrant Name: Google Canada
+Registrant Organization:
+Registrant Street: 111 Richmond Street West, 12th Floor
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M5H2G4
+Registrant Country: CA
+Registrant Phone: +1.4169158200
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: email@google.com
+Registry Admin ID: 59972061-CIRA
+Admin Name: Lauren Johnston
+Admin Organization: Google Canada
+Admin Street: 111 Richmond Street West, 12th Floor
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M5H2G4
+Admin Country: CA
+Admin Phone: +1.4169158200
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: email@google.com
+Registry Tech ID: 59972061-CIRA
+Tech Name: Lauren Johnston
+Tech Organization: Google Canada
+Tech Street: 111 Richmond Street West, 12th Floor
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M5H2G4
+Tech Country: CA
+Tech Phone: +1.4169158200
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: email@google.com
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.google.com
+Name Server: ns2.google.com
+Name Server: ns3.google.com
+Name Server: ns4.google.com
+DNSSEC: unsigned
+
+###########################################################################
+
+omain Name: georgebrown.ca
+Registry Domain ID: D121739-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.webnames.ca
+Updated Date: 2021-10-23T15:05:12Z
+Creation Date: 2002-07-04T08:35:23Z
+Registry Expiry Date: 2022-07-04T04:00:00Z
+Registrar: Webnames.ca Inc.
+Registrar IANA ID: 456
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: R21312-CIRA
+Registrant Name: George Brown College (Toronto)
+Registrant Organization:
+Registrant Street: P.O. Box 1015 Station B
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M5T2T9
+Registrant Country: CA
+Registrant Phone: +1.4164155000
+Registrant Phone Ext: 5012
+Registrant Fax: +1.4164154667
+Registrant Fax Ext:
+Registrant Email: email@georgebrown.ca
+Registry Admin ID: C883431-CIRA
+Admin Name: Andrew Riem
+Admin Organization: George Brown College
+Admin Street: P.O. Box 1015 Station B
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M5T2T9
+Admin Country: CA
+Admin Phone: +1.4164155000
+Admin Phone Ext: 5012
+Admin Fax: +1.4164154667
+Admin Fax Ext:
+Admin Email: email@georgebrown.ca
+Registry Tech ID: C883432-CIRA
+Tech Name: Dorin Grunberg
+Tech Organization: George Brown College
+Tech Street: P.O. Box 1015 Station B
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M5T2T9
+Tech Country: CA
+Tech Phone: +1.4164155000
+Tech Phone Ext: 4935
+Tech Fax: +1.4164154836
+Tech Fax Ext:
+Tech Email: email@georgebrown.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.d-zone.ca
+Name Server: ns1.georgebrown.ca
+Name Server: ns2.d-zone.ca
+Name Server: ns2.georgebrown.ca
+DNSSEC: unsigned

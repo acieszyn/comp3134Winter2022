@@ -1,0 +1,10 @@
+PING doordash.ca (172.64.80.1) 56(84) bytes of data.
+64 bytes from 172.64.80.1 (172.64.80.1): icmp_seq=1 ttl=61 time=1.88 ms
+64 bytes from 172.64.80.1 (172.64.80.1): icmp_seq=2 ttl=61 time=1.54 ms
+64 bytes from 172.64.80.1 (172.64.80.1): icmp_seq=3 ttl=61 time=1.48 ms
+64 bytes from 172.64.80.1 (172.64.80.1): icmp_seq=4 ttl=61 time=0.956 ms
+64 bytes from 172.64.80.1 (172.64.80.1): icmp_seq=5 ttl=61 time=1.01 ms
+
+--- doordash.ca ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 0.956/1.373/1.884/0.347 ms

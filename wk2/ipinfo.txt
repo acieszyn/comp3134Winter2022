@@ -1,0 +1,27 @@
+Domain Name: homedepot.ca
+IP Address: 23.199.206.10
+Geolocation: US (United States), MA, Massachusetts, 02142 Cambridge
+
+######################################################
+
+Domain Name: roosterteeth.com
+IP Address: 52.45.27.213
+Geolocation: US (United States), VA, Virginia, 20149 Ashburn
+
+######################################################
+
+Domain Name: nintendo.ca
+IP Address: 52.20.1.212
+Geolocation: US (United States), VA, Virginia, 20149 Ashburn
+
+######################################################
+
+Domain Name: beerstore.ca
+IP Address: 165.160.15.20
+Geolocation: US (United States), DE, Delaware, 19808 Wilmington
+
+######################################################
+
+Domain Name: mcdonalds.ca
+IP Address: 52.6.111.61
+Geolocation: US (United States), VA, Virginia, 20149 Ashburn

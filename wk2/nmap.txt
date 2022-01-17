@@ -1,0 +1,48 @@
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-01-17 22:26 UTC
+Nmap scan report for petsmart.ca (204.74.99.100)
+Host is up (0.012s latency).
+rDNS record for 204.74.99.100: crs.ultradns.net
+Not shown: 999 filtered ports
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 4.89 seconds
+
+###########################################################
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-01-17 22:28 UTC
+Nmap scan report for bestbuy.ca (23.60.171.10)
+Host is up (0.011s latency).
+rDNS record for 23.60.171.10: a23-60-171-10.deploy.static.akamaitechnologies.com
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 0.26 seconds
+
+###########################################################
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-01-17 22:30 UTC
+Nmap scan report for gamestop.ca (34.243.62.110)
+Host is up (0.10s latency).
+Other addresses for gamestop.ca (not scanned): 54.155.94.192
+rDNS record for 34.243.62.110: ec2-34-243-62-110.eu-west-1.compute.amazonaws.com
+Not shown: 100 filtered ports
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 3.49 seconds
+
+###########################################################
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-01-17 22:31 UTC
+Nmap scan report for timhortons.ca (52.85.61.48)
+Host is up (0.012s latency).
+Other addresses for timhortons.ca (not scanned): 52.85.61.52 52.85.61.8 52.85.61.15
+rDNS record for 52.85.61.48: server-52-85-61-48.ewr53.r.cloudfront.net
+Not shown: 98 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 1.93 seconds

@@ -1,0 +1,10 @@
+Pinging 147.182.158.9 with 32 bytes of data:
+Reply from 147.182.158.9: bytes=32 time=4ms TTL=52
+Reply from 147.182.158.9: bytes=32 time=3ms TTL=52
+Reply from 147.182.158.9: bytes=32 time=4ms TTL=52
+Reply from 147.182.158.9: bytes=32 time=4ms TTL=52
+
+Ping statistics for 147.182.158.9:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 4ms, Average = 3ms

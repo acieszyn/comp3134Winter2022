@@ -1,0 +1,16 @@
+Tracing route to 147.182.158.9 over a maximum of 30 hops
+
+  1     1 ms     1 ms     1 ms  mynetwork [192.168.2.1]
+  2     4 ms    20 ms     5 ms  10.11.6.161
+  3     *        *        *     Request timed out.
+  4     5 ms     4 ms     5 ms  tcore3-toronto21_hu2/5/0/3_35.net.bell.ca [64.230.59.186]
+  5    10 ms     5 ms     5 ms  tcore3-toronto21-bundle-ether38.net.bell.ca [142.124.127.148]
+  6     *        *        7 ms  tcore1-torontoxn_ae3.net.bell.ca [64.230.51.154]
+  7     2 ms     3 ms     2 ms  bx1-torontoxn_et1-0-0.net.bell.ca [64.230.97.157]
+  8     6 ms     2 ms     2 ms  ix-ae-9-0.tcore2.tnk-toronto.as6453.net [63.243.172.25]
+  9     4 ms     6 ms     2 ms  if-ae-2-2.tcore1.tnk-toronto.as6453.net [64.86.33.89]
+ 10     2 ms     2 ms     2 ms  64.86.33.54
+ 11     *        *        *     Request timed out.
+ 12     *        *        *     Request timed out.
+ 13     *        *        *     Request timed out.
+ 14     4 ms     3 ms     5 ms  147.182.158.9
