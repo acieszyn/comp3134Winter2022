@@ -1,0 +1,3 @@
+service ssh restart
+
+ssh root@147.182.158.9 -p 2222
