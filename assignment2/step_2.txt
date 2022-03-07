@@ -1,0 +1,30 @@
+tcpdump -c 10 port 80 -q
+
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+22:29:57.891425 IP bras-base-toroon0335w-grc-43-184-145-45-157.dsl.bell.ca.59002 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.http: tcp 0
+22:29:57.891425 IP bras-base-toroon0335w-grc-43-184-145-45-157.dsl.bell.ca.59003 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.http: tcp 0
+22:29:57.891553 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.http > bras-base-toroon0335w-grc-43-184-145-45-157.dsl.bell.ca.59002: tcp 0
+22:29:57.891586 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.http > bras-base-toroon0335w-grc-43-184-145-45-157.dsl.bell.ca.59003: tcp 0
+22:29:57.897500 IP bras-base-toroon0335w-grc-43-184-145-45-157.dsl.bell.ca.59002 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.http: tcp 0
+22:29:57.897500 IP bras-base-toroon0335w-grc-43-184-145-45-157.dsl.bell.ca.59003 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.http: tcp 0
+22:29:57.897667 IP bras-base-toroon0335w-grc-43-184-145-45-157.dsl.bell.ca.59002 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.http: tcp 431
+22:29:57.897720 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.http > bras-base-toroon0335w-grc-43-184-145-45-157.dsl.bell.ca.59002: tcp 0
+22:29:57.898993 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.http > bras-base-toroon0335w-grc-43-184-145-45-157.dsl.bell.ca.59002: tcp 2594
+22:29:57.902412 IP bras-base-toroon0335w-grc-43-184-145-45-157.dsl.bell.ca.59002 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.http: tcp 0
+10 packets captured
+11 packets received by filter
+0 packets dropped by kernel
+
+|                        Source Host                        | Source Port |                        Dest. Host                        | Dest. Port |
+|===========================================================|=============|==========================================================|============|
+| bras-base-toroon0335w-grc-43-184-145-45-157.dsl.bell.ca   | 59002       | lamp-ubuntu-s-1vcpu-1gb-tor1-01                          | http       |
+| bras-base-toroon0335w-grc-43-184-145-45-157.dsl.bell.ca   | 59003       | lamp-ubuntu-s-1vcpu-1gb-tor1-01                          | http       |
+| lamp-ubuntu-s-1vcpu-1gb-tor1-01                           | http        | bras-base-toroon0335w-grc-43-184-145-45-157.dsl.bell.ca  | 59002      |
+| lamp-ubuntu-s-1vcpu-1gb-tor1-01                           | http        | bras-base-toroon0335w-grc-43-184-145-45-157.dsl.bell.ca  | 59003      |
+| bras-base-toroon0335w-grc-43-184-145-45-157.dsl.bell.ca   | 59002       | lamp-ubuntu-s-1vcpu-1gb-tor1-01                          | http       |
+| bras-base-toroon0335w-grc-43-184-145-45-157.dsl.bell.ca   | 59003       | lamp-ubuntu-s-1vcpu-1gb-tor1-01                          | http       |
+| bras-base-toroon0335w-grc-43-184-145-45-157.dsl.bell.ca   | 59002       | lamp-ubuntu-s-1vcpu-1gb-tor1-01                          | http       |
+| lamp-ubuntu-s-1vcpu-1gb-tor1-01                           | http        | bras-base-toroon0335w-grc-43-184-145-45-157.dsl.bell.ca  | 59002      |
+| lamp-ubuntu-s-1vcpu-1gb-tor1-01                           | http        | bras-base-toroon0335w-grc-43-184-145-45-157.dsl.bell.ca  | 59002      |
+| bras-base-toroon0335w-grc-43-184-145-45-157.dsl.bell.ca   | 59002       | lamp-ubuntu-s-1vcpu-1gb-tor1-01                          | http       |

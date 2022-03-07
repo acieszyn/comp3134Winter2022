@@ -1,0 +1,30 @@
+tcpdump -c 10 udp -q
+
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+22:01:39.928491 IP bras-base-toroon0335w-grc-43-184-145-45-157.dsl.bell.ca.57449 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.22: UDP, length 12
+22:01:39.932229 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.48490 > 67.207.67.3.domain: UDP, length 55
+22:01:39.932462 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.35755 > 67.207.67.3.domain: UDP, length 55
+22:01:39.932688 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.35526 > 67.207.67.2.domain: UDP, length 55
+22:01:39.951325 IP 67.207.67.2.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.35526: UDP, length 122
+22:01:39.951724 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.35526 > 67.207.67.2.domain: UDP, length 44
+22:01:39.970913 IP 67.207.67.2.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.35526: UDP, length 111
+22:01:39.972044 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.35755: UDP, length 122
+22:01:39.972256 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.35755 > 67.207.67.3.domain: UDP, length 44
+22:01:39.973203 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.35755: UDP, length 111
+10 packets captured
+41 packets received by filter
+6 packets dropped by kernel
+
+|                        Source Host                        | Source Port |            Dest. Host            | Dest. Port |
+|===========================================================|=============|==================================|============|
+| bras-base-toroon0335w-grc-43-184-145-45-157.dsl.bell.ca   | 57449       | lamp-ubuntu-s-1vcpu-1gb-tor1-01  | 22         |
+| lamp-ubuntu-s-1vcpu-1gb-tor1-01                           | 48490       | 67.207.67.3                      | domain     |
+| lamp-ubuntu-s-1vcpu-1gb-tor1-01                           | 35755       | 67.207.67.3                      | domain     |
+| lamp-ubuntu-s-1vcpu-1gb-tor1-01                           | 35526       | 67.207.67.2                      | domain     |
+| 67.207.67.2                                               | domain      | lamp-ubuntu-s-1vcpu-1gb-tor1-01  | 35526      |
+| lamp-ubuntu-s-1vcpu-1gb-tor1-01                           | 35526       | 67.207.67.2                      | domain     |
+| 67.207.67.2                                               | domain      | lamp-ubuntu-s-1vcpu-1gb-tor1-01  | 35526      |
+| 67.207.67.3                                               | domain      | lamp-ubuntu-s-1vcpu-1gb-tor1-01  | 35755      |
+| lamp-ubuntu-s-1vcpu-1gb-tor1-01                           | 35755       | 67.207.67.3                      | domain     |
+| 67.207.67.3                                               | domain      | lamp-ubuntu-s-1vcpu-1gb-tor1-01  | 35755      |
