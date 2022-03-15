@@ -1,0 +1,3 @@
+1. The browser is notifying us that we attempted to open a file or directory that does not exist.
+
+2. As part of the warning message, the sensitive filepath is divulged.

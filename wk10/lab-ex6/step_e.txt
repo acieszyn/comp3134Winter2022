@@ -1,0 +1,2 @@
+I will mitigate the problems by implementing checks to see if the user is attemping to move up a directory, 
+open a nonexistent directory, or open an individual file.

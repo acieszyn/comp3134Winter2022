@@ -1,0 +1,3 @@
+1. On the browser we see the contents of the var directory.
+
+2. These are all directories that a malicious actor could look through.
