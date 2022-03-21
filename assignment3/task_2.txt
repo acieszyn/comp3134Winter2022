@@ -1,0 +1,29 @@
+davidstea.ca
+	"lang": "en_CA"
+		Form method: get
+	"dwfrm_profile_customer_addtoemaillist": "true"
+		Form method: post
+	"rememberme": ""
+		Form method: post
+	"csrf_token": "rAPcix0qeLZmMSzLIrmFSeZP8pr_bqoH5RH4yf69rCzk5osADsEingc72eKaort3XxW9KiezOvWNNQaBh1IoMk6I17L4mMCFX7fMggXG3Jyk_u48ACQw5M3IRwAU_5t4-74ptQLL_S5VbgzjQWGX8uebPg2_by7sOJRi-SvnBaBz5pmdEoQ="
+		Form method: post
+
+google.ca
+	"sxsrf": "APq-WBt7fd_uRkKmtNC5kfZIcRpV_Ytikg:1647903424787"
+		Form method: get
+	"source": "hp"
+		Form method: get
+	"ei": "wAI5Yv2iLPGhptQPrOm8oAU"
+		Form method: get
+	"iflsig": "AHkkrS4AAAAAYjkQ0PPdyBjGqN7vIcyrG2MllMA_uHzg"
+		Form method: get
+
+lindt.ca
+	"form_key": "5NtKtCy4e3OpwBIo"
+		Form method: get
+	"tab": "products"
+		Form method: get
+	"product": "19602"
+		Form method: post
+	"uenc": "aHR0cHM6Ly93d3cubGluZHQuY2EvZW4vY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0hNNkx5OTNkM2N1YkdsdVpIUXVZMkV2Wlc0dlkyaGxZMnR2ZFhRdlkyRnlkQzglMkMvcHJvZHVjdC8xOTYwMi9pbl9jYXJ0LzEv"
+		Form method: post

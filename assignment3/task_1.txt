@@ -1,0 +1,49 @@
+canadiantire.ca
+	Name:		QuantumMetricSessionID
+	Value:	01960ce2a0297c28c17f365d202accd9
+	Path:		/
+
+bestbuy.ca
+	Name:		tm_mSession
+	Value:	0057c0bb8e20410695f2d2e097589fb0
+	Path:		/
+
+microsoft.com
+	Name:		ai_session
+	Value:	vZWNwq8y/T0GDu8mJC1ZvO|1647896739004|1647896739004
+	Path:		/
+
+nintendo.com
+	Name:		QuantumMetricSession
+	Value:	9d823f7ef504fdf6057bc640f1693562
+	Path:		/
+
+cbc.ca
+	Name:		cbc-session
+	Value:	1647897085
+	Path:		/
+
+georgebrown.ca
+	Name:		JSESSIONID
+	Value:	f178d892adc7ce6f
+	Path:		/
+
+mcdonalds.com
+	Name:		s_ecid
+	Value:	MCMID%7C51208406045499542100045813720715078117
+	Path:		/
+
+lcbo.com
+	Name:		JSESSIONID
+	Value:	0000ADXV7vYnGeqpYuVppJ4vyKo:ecomapp05
+	Path:		/
+
+ikea.com
+	Name:		sessionID
+	Value:	935700721667720531
+	Path:		/
+
+loblaws.ca
+	Name:		s_ecid
+	Value:	MCMID%7C53019045886204299421019506840484768049
+	Path:		/
