@@ -1,0 +1,1 @@
+http://147.182.158.9/assignment4/a4_reflected.php?value=%3Cscript%3Ealert(1);%3C/script%3E
